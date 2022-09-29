@@ -26,4 +26,5 @@ export default function FilmRow(props) {
             />
         </div>
     )
+    
 }
